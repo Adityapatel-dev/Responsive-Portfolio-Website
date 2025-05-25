@@ -46,15 +46,4 @@ Welcome to my personal portfolio website! This project showcases my professional
 
 ---
 
-## 🌍 Deployment
-
-Deployed using **GitHub Pages**  
-To deploy your own fork:
-1. Fork the repository
-2. Push your changes
-3. Go to Settings > Pages > Source: select `main` branch and `/ (root)`
-4. Save and your portfolio will be live!
-
----
-
 > Designed & Built with ❤️ by **Aditya Patel**
